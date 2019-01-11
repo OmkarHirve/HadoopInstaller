@@ -1,0 +1,32 @@
+img {
+    height: 30%;
+    width: 25%;
+    border-radius: 8px;   
+}
+img:hover {
+    box-shadow: 0 0 5px 5px rgba(204, 4, 4, 0.753);
+
+    
+}
+
+#title{
+    background-color: aliceblue;
+    border: 15px solid;
+}
+
+#Images {
+    background-color: cornflowerblue;
+    border: 15px solid black;
+    padding: 25px;
+    margin: 25px;
+}
+
+body {
+    background: #2c3e50;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3498db, #2c3e50);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3498db, #2c3e50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
+
+

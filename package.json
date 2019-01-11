@@ -1,0 +1,25 @@
+{
+  "name": "hadoop_installer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmkarHirve/HadoopInstaller.git"
+  },
+  "author": "Omkar Hirve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmkarHirve/HadoopInstaller/issues"
+  },
+  "homepage": "https://github.com/OmkarHirve/HadoopInstaller#readme",
+  "dependencies": {
+    "electron": "^2.0.2",
+    "mysql": "^2.15.0",
+    "remote": "^0.2.6"
+  }
+}
